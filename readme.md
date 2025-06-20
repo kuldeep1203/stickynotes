@@ -1,0 +1,1 @@
+A basic attempt at making a simple sticky note app using gnome  for linux.
